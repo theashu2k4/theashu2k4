@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/theashu2k4">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+scale;React+%7C+Node.js+%7C+MongoDB+%7C+Socket.io;Competitive+Programmer+in+C%2B%2B;2nd+Year+CSE+%40+NIT+Agartala" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+full-stack+products+that+scale;React+%7C+Node.js+%7C+MongoDB+%7C+Socket.io;Competitive+Programmer+in+C%2B%2B;2nd+Year+EIE+%40+NIT+Agartala" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/ashu2k4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Ashu_2k4/">
+  <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://github.com/theashu2k4">
