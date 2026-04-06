@@ -34,7 +34,7 @@
 const ashutosh = {
   name        : "Ashutosh Kumar",
   alias       : "theashu2k4",
-  college     : "NIT Agartala — B.Tech CSE (2nd Year)",
+  college     : "NIT Agartala — B.Tech EIE (2nd Year)",
   hometown    : "Buxar, Bihar 🇮🇳",
   role        : "Full Stack Developer",
   currentBuild: "Campus Connect OS — OS-inspired SaaS Campus Platform",
